@@ -19,6 +19,6 @@ To get a local copy up and running, follow these steps:
    `ng s`
 5. Enjoy the Investment Calculator!
 
-## screenshots
+## Screenshots
 ![alt text](<Screenshot 2024-07-23 164647.png>)
 ![alt text](<Screenshot 2024-07-23 164752.png>)
